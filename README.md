@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nithishjipmer
 - 👀 I’m interested in businesses and tech!
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on CAL project that I am doing.
+- 🌱 I’m currently learning flutter
 - 📫 reach me on nithishjipmer2020@gmail.com
 
 <!---
